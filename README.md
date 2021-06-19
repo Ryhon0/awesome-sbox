@@ -27,7 +27,8 @@ These games are made by Facepunch and are often updated
 * [Simple Weapon Base](https://github.com/timmybo5/simple-weapon-base) - Weapon base with support for multiple weapon types, tucking and akimbo weapons
 
 ## Other
-* [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box 
+* [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box
+* [sbox-voxel](https://github.com/TankNut/sbox-voxel) - A set of library classes for s&box to create runtime voxel models
 
 # Contributing
 Don't see a project that you like here? Fork this repository and add it to the list, then create a pull request. The project has to be open-source and work and be actively updated.   
