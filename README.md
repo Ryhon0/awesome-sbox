@@ -1,3 +1,5 @@
+<img align="right" src="img/terry_cool.png">  
+
 # Awesome S&Box
 
 # Facepunch Games
@@ -12,7 +14,7 @@ These games are made by Facepunch and often updated
 * [sbox-minimal](https://github.com/Facepunch/sbox-minimal) - Everything you need to create your own addon
 
 # Third-party Games
-* [Gun Game](https://github.com/Ryhon0/sbox-gg) -  
+* [Gun Game](https://github.com/Ryhon0/sbox-gg) - Gun Game in S&Box
 * [TTT Reborn](https://github.com/TTTReborn/ttt-reborn) - Spiritual successor of Trouble in Terrorist Town\
 * [Team Fortress Source 2](https://github.com/rob5300/Team-Fortress-Source-2) - Team Fortress 2 in S&Box
 * [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
@@ -27,5 +29,7 @@ These games are made by Facepunch and often updated
 * [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box 
 
 # Contributing
-Don't see a project that you like here? fork this repository and add it to the list and create a pull request. The project has to be open-source and work and be actively updated.   
-Is any information incorrect? Would you like to add something? PRs are welcome
+Don't see a project that you like here? Fork this repository and add it to the list, then create a pull request. The project has to be open-source and work and be actively updated.   
+Is any of the information here incorrect? Would you like to add something? PRs are welcome.  
+This repo is not limited just to code, free materials, models and maps are welcome too!  
+Those assets need to include the project file (e.g. .blend file, hammer map file)
