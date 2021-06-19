@@ -1,0 +1,31 @@
+# Awesome S&Box
+
+# Facepunch Games
+These games are made by Facepunch and often updated
+* [Sandbox](https://github.com/Facepunch/sandbox) - Garry's Mod in S&Box
+* [Hidden](https://github.com/Facepunch/sbox-hidden) - Players have to eliminate an invisible enemy with a knife
+* [RTS](https://github.com/Facepunch/sbox-rts) - Real-time strategy game
+* [Pool](https://github.com/Facepunch/sbox-pool) - Also known as billiard
+* [Sandblox](https://github.com/Facepunch/sandblox) - Voxels in S&Box
+* [AI Lab](https://github.com/Facepunch/sbox-ai-lab) - Tests for AI controlled NPCs
+* [DM98](https://github.com/Facepunch/dm98) - Classic deathmatch
+* [sbox-minimal](https://github.com/Facepunch/sbox-minimal) - Everything you need to create your own addon
+
+# Third-party Games
+* [Gun Game](https://github.com/Ryhon0/sbox-gg) -  
+* [TTT Reborn](https://github.com/TTTReborn/ttt-reborn) - Spiritual successor of Trouble in Terrorist Town\
+* [Team Fortress Source 2](https://github.com/rob5300/Team-Fortress-Source-2) - Team Fortress 2 in S&Box
+* [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
+* [Chloride](https://github.com/WYVERN2742/Chloride) - High Octane Hovercraft Shooter
+
+# Libraries
+
+## Weapons
+* [Simple Weapon Base](https://github.com/timmybo5/simple-weapon-base) - Weapon base with support for multiple weapon types, tucking and akimbo weapons
+
+## Other
+* [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box 
+
+# Contributing
+Don't see a project that you like here? fork this repository and add it to the list and create a pull request. The project has to be open-source and work and be actively updated.   
+Is any information incorrect? Would you like to add something? PRs are welcome
