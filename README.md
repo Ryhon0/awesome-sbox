@@ -3,7 +3,7 @@
 # Awesome S&Box
 
 # Facepunch Games
-These games are made by Facepunch and often updated
+These games are made by Facepunch and are often updated
 * [Sandbox](https://github.com/Facepunch/sandbox) - Garry's Mod in S&Box
 * [Hidden](https://github.com/Facepunch/sbox-hidden) - Players have to eliminate an invisible enemy with a knife
 * [RTS](https://github.com/Facepunch/sbox-rts) - Real-time strategy game
