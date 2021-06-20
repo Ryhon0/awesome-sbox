@@ -24,6 +24,7 @@ These games are made by Facepunch and are often updated
 # Libraries
 
 ## Weapons
+* [Ryhon's Weapon Base](https://github.com/Ryhon0/RWB) - Simple weapon base with support for semi and fully automatic weapons, shotguns, melee, burst fire and projectiles all at the same time
 * [Simple Weapon Base](https://github.com/timmybo5/simple-weapon-base) - Weapon base with support for multiple weapon types, tucking and akimbo weapons
 
 ## Other
