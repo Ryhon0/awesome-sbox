@@ -20,6 +20,7 @@ These games are made by Facepunch and are often updated
 * [DVD](https://github.com/rndtrash/dvd) - Bouncing DVD logo
 * [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
 * [Chloride](https://github.com/WYVERN2742/Chloride) - High Octane Hovercraft Shooter
+* [Murderbox](https://github.com/TylerJaacks/murderbox) - Garry's Mod Murder in S&Box.
 
 # Libraries
 
