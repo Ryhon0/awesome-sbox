@@ -24,14 +24,14 @@ These games are made by Facepunch and are often updated
 * [Murderbox](https://github.com/TylerJaacks/murderbox) - Garry's Mod Murder in S&Box.
 
 # Libraries
+* [Sandbox.System](https://github.com/Ryhon0/Sandbox.System) - Sandbox wrappings to C#'s standard libraries for porting existing libraries with minimal effort
+* [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box
+* [sbox-voxel](https://github.com/TankNut/sbox-voxel) - A set of library classes for s&box to create runtime voxel models
 
-## Weapons
+# Weapons
 * [Ryhon's Weapon Base](https://github.com/Ryhon0/RWB) - Simple weapon base with support for semi and fully automatic weapons, shotguns, melee, burst fire and projectiles all at the same time
 * [Simple Weapon Base](https://github.com/timmybo5/simple-weapon-base) - Weapon base with support for multiple weapon types, tucking and akimbo weapons
 
-## Other
-* [Advisor](https://github.com/game-creators-area/Advisor) - Administration framework for S&Box
-* [sbox-voxel](https://github.com/TankNut/sbox-voxel) - A set of library classes for s&box to create runtime voxel models
 
 # Contributing
 Don't see a project that you like here? Fork this repository and add it to the list, then create a pull request. The project has to be open-source and work and be actively updated.   
