@@ -22,6 +22,7 @@ These games are made by Facepunch and are often updated
 * [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
 * [Chloride](https://github.com/WYVERN2742/Chloride) - High Octane Hovercraft Shooter
 * [Murderbox](https://github.com/TylerJaacks/murderbox) - Garry's Mod Murder in S&Box.
+* [Sandsaber](https://github.com/Ryhon0/sandsaber) - Beat Saber in S&Box
 
 # Libraries
 * [Sandbox.System](https://github.com/Ryhon0/Sandbox.System) - Sandbox wrappings to C#'s standard libraries for porting existing libraries with minimal effort
