@@ -24,6 +24,7 @@ These games are made by Facepunch and are often updated
 * [Murderbox](https://github.com/TylerJaacks/murderbox) - Garry's Mod Murder in S&Box.
 * [SourceBox](https://github.com/Ryhon0/sourcebox) - Source 1 style menu for S&Box
 * [Super Terry Ball](https://github.com/taek-dev/superterryball) - Super Monkey Ball reimagined in S&Box
+* [Deathrun neue](https://github.com/ceifa/deathrun) - Garry's Mod Deathrun in S&Box
 
 # Libraries
 * [Sandbox.System](https://github.com/Ryhon0/Sandbox.System) - Sandbox wrappings to C#'s standard libraries for porting existing libraries with minimal effort
