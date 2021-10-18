@@ -16,7 +16,7 @@ These games are made by Facepunch and are often updated
 # Third-party Games
 * [S&Saber](https://github.com/Ryhon0/sandsaber) - Beat Saber in S&Box
 * [Gun Game](https://github.com/Ryhon0/sbox-gg) - Gun Game in S&Box
-* [TTT Reborn](https://github.com/TTTReborn/ttt-reborn) - Spiritual successor of Trouble in Terrorist Town\
+* [TTT Reborn](https://github.com/TTTReborn/ttt-reborn) - Spiritual successor of Trouble in Terrorist Town
 * [Team Fortress Source 2](https://github.com/rob5300/Team-Fortress-Source-2) - Team Fortress 2 in S&Box
 * [DVD](https://github.com/rndtrash/dvd) - Bouncing DVD logo
 * [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
