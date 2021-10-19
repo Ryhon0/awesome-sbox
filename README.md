@@ -11,6 +11,7 @@ These games are made by Facepunch and are often updated
 * [Sandblox](https://github.com/Facepunch/sandblox) - Voxels in S&Box
 * [AI Lab](https://github.com/Facepunch/sbox-ai-lab) - Tests for AI controlled NPCs
 * [DM98](https://github.com/Facepunch/dm98) - Classic deathmatch
+* [Hover](https://github.com/Facepunch/sbox-hover) - Sci-Fi Capture the Flag.
 * [sbox-minimal](https://github.com/Facepunch/sbox-minimal) - Everything you need to create your own addon
 
 # Third-party Games
