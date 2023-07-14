@@ -8,10 +8,13 @@ These games are made by Facepunch and are often updated
 * [Hidden](https://github.com/Facepunch/sbox-hidden) - Players have to eliminate an invisible enemy with a knife
 * [RTS](https://github.com/Facepunch/sbox-rts) - Real-time strategy game
 * [Pool](https://github.com/Facepunch/sbox-pool) - Also known as billiard
+* [Mini Golf](https://github.com/sboxgame/minigolf) - Multiplayer Mini Golf game with many available maps.
 * [Sandblox](https://github.com/Facepunch/sandblox) - Voxels in S&Box
 * [AI Lab](https://github.com/Facepunch/sbox-ai-lab) - Tests for AI controlled NPCs
 * [DM98](https://github.com/Facepunch/dm98) - Classic deathmatch
+* [Strafe](https://github.com/facepunch/sbox-strafe) - Source 1 style surf, bunnyhop, and rocket jumping gamemode.
 * [Hover](https://github.com/Facepunch/sbox-hover) - Sci-Fi Capture the Flag.
+* [Sausage Survivors](https://github.com/facepunch/sbox-2dtest) - Top-down 2D zombie survival shooter game.
 * [sbox-minimal](https://github.com/Facepunch/sbox-minimal) - Everything you need to create your own addon
 
 # Third-party Games
@@ -19,6 +22,8 @@ These games are made by Facepunch and are often updated
 * [Gun Game](https://github.com/Ryhon0/sbox-gg) - Gun Game in S&Box
 * [TTT Reborn](https://github.com/TTTReborn/ttt-reborn) - Spiritual successor of Trouble in Terrorist Town
 * [Team Fortress Source 2](https://github.com/rob5300/Team-Fortress-Source-2) - Team Fortress 2 in S&Box
+* [Grubs](https://github.com/apetavern/sbox-grubs) - Worms inspired artillery game in S&Box.
+* [Garryware](https://github.com/JamesWilko/sandbox-garryware) - Multiplayer Microgames in S&Box.
 * [DVD](https://github.com/rndtrash/dvd) - Bouncing DVD logo
 * [YourRP](https://github.com/d4kir92/sbox-yourrp) - Generic RP game
 * [Chloride](https://github.com/WYVERN2742/Chloride) - High Octane Hovercraft Shooter
